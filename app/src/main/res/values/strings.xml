@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Picker</string>
+    <string name="selected_place_info">Selected location information:\n%1$s</string>
+    <string name="access_token">pk.eyJ1IjoiYXlhbi0xMCIsImEiOiJja293aGVucnAwMDZhMndwbm90cXV1MmR2In0.vRXyhsZPxsZNEyRU8gbDDw</string>
+</resources>
